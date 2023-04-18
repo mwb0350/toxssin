@@ -1,4 +1,4 @@
-# toxssin  [【中文】] (https://github.com/mwb0350/toxssin/blob/d3f0b513c344f9878fa490a5511d4d9f44368fc7/%E3%80%90%E7%A5%9E%E5%85%B5%E5%88%A9%E5%99%A8%E3%80%91XSS%E6%BC%8F%E6%B4%9E%E6%89%AB%E6%8F%8F%E5%88%A9%E7%94%A8%E5%B7%A5%E5%85%B7%20--%20toxssin.md)
+# toxssin  [【中文】](https://github.com/mwb0350/toxssin/blob/d3f0b513c344f9878fa490a5511d4d9f44368fc7/%E3%80%90%E7%A5%9E%E5%85%B5%E5%88%A9%E5%99%A8%E3%80%91XSS%E6%BC%8F%E6%B4%9E%E6%89%AB%E6%8F%8F%E5%88%A9%E7%94%A8%E5%B7%A5%E5%85%B7%20--%20toxssin.md)
 
 [![Python 3.x](https://img.shields.io/badge/python-3.x-yellow.svg)](https://www.python.org/) <img src="https://img.shields.io/badge/vanilla-JavaScript-blue"> [![License](https://img.shields.io/badge/license-MIT-red.svg)](https://github.com/t3l3machus/toxssin/blob/main/LICENSE) [![Linux](https://svgshare.com/i/Zhy.svg)](https://svgshare.com/i/Zhy.svg)
 <img src="https://img.shields.io/badge/Maintained%3F-Yes-CD8335">
